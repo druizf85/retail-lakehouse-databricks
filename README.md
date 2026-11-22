@@ -1,6 +1,8 @@
 
 # Retail Lakehouse on Databricks
 
+![alt text](docs/screenshots/Databricks_Logo.png)
+
 This project shows an end-to-end Data Engineering portfolio built with **Databricks, Apache Spark, Spark SQL, Python, and Delta Lake**.
 
 The project demonstrates how to ingest data from a REST API, preserve raw snapshots, generate synthetic retail transactions, transform semi-structured data into structured datasets, and build analytical tables using a Medallion Architecture. It also includes workflow orchestration through Databricks Jobs, pipeline design and schedule setting.
